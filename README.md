@@ -1,4 +1,4 @@
-# YogaPoseBackend (Final Fixed)
+# YogaPoseBackend
 
 ## Fix Applied
 - Fixed issue where landmarks in DB were empty due to double JSON encoding.
